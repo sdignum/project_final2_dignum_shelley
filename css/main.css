@@ -2,6 +2,7 @@ body {
 	font-family: "mostra-nuova",sans-serif;
 	font-size: 15px;
 	color: #09202f;
+	border-top: solid 15px #103853;
 }
 
 h1 {
