@@ -1,3 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
 body {
 	font-family: "mostra-nuova",sans-serif;
 	font-size: 15px;
@@ -17,4 +23,15 @@ h2 {
   font-size: 24px;
   text-transform: uppercase;
   color: #103853;
+}
+
+header {
+	width: 95%;
+	margin: auto;
+	text-align: center;
+}
+
+#logo {
+	width: 80%;
+	text-align: center;
 }
