@@ -15,6 +15,7 @@ h1 {
   font-family: "lush",sans-serif;
   color: #09202f;
   font-size: 60px;
+  margin-bottom: 10px;
 }
 
 h2 {
@@ -22,7 +23,12 @@ h2 {
   font-weight: bold;
   font-size: 24px;
   text-transform: uppercase;
-  color: #103853;
+  color: #bf1c2e;
+  margin: 0;
+}
+
+p {
+	line-height: 1.5em;
 }
 
 a, a:visited {
@@ -100,4 +106,8 @@ nav ul li {
 	padding: 40px 20px;
 	margin-top: 20px;
 	font-weight: normal;
+}
+
+#main {
+
 }
