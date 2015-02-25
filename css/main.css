@@ -41,6 +41,7 @@ a:hover, a:active {
 header {
 	width: 95%;
 	margin: auto;
+	padding-bottom: 20px;
 	text-align: center;
 }
 
@@ -66,4 +67,19 @@ nav ul li {
 
 #link2 {
 	float: right;
+}
+
+#banner {
+	background-image: url(../img/cheese.jpg);
+	background-size: 110%;
+	background-repeat: no-repeat;
+	background-color: #09202f;
+}
+
+#banner h1 {
+	width: 60%;
+	line-height: 48px;
+	color: #ffffff;
+	padding: 40px 20px;
+	font-weight: normal;
 }
