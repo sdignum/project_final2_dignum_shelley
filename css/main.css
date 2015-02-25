@@ -41,8 +41,11 @@ a:hover, a:active {
 header {
 	width: 95%;
 	margin: auto;
-	padding-bottom: 20px;
 	text-align: center;
+}
+
+nav {
+	padding-bottom: 40px;
 }
 
 nav ul {
@@ -69,6 +72,20 @@ nav ul li {
 	float: right;
 }
 
+.pretty-divider {
+	margin-top: 10px;
+	background-image: url(../img/gold-line.png);
+	background-repeat: repeat-x;
+	background-position: center;
+	background-size: 30%;
+}
+
+.flourish {
+	width: 60px;
+	padding: 0px 5px;
+	background-color: #ffffff;
+}
+
 #banner {
 	background-image: url(../img/cheese.jpg);
 	background-size: 110%;
@@ -81,5 +98,6 @@ nav ul li {
 	line-height: 48px;
 	color: #ffffff;
 	padding: 40px 20px;
+	margin-top: 20px;
 	font-weight: normal;
 }
