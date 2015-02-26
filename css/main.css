@@ -85,11 +85,6 @@ position: relative;
 	transform: translateY(0px);
 }
 
-/*.current a {
-	border-bottom: solid 4px #09202f;
-	padding-bottom: 3px;
-}*/
-
 header {
 	width: 95%;
 	margin: auto;
