@@ -92,12 +92,12 @@ header {
 }
 
 nav {
-	padding-bottom: 40px;
+	padding-bottom: 70px;
 }
 
 nav ul {
 	list-style-type: none;
-	padding: 0 20%;
+	padding: 0 15%;
 	margin: 0;
 }
 
@@ -113,7 +113,7 @@ section {
 #logo {
 	width: 80%;
 	text-align: center;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 #link1 {
