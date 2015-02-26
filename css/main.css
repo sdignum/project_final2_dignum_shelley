@@ -169,4 +169,9 @@ section {
 	.pretty-divider {
 		clear: both;
 	}
+
+	#banner h1 {
+		padding: 120px 0px 100px 20px;
+		font-size: 100px;
+	}
 }
