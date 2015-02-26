@@ -128,6 +128,29 @@ section {
 	border: solid 3px #d48e4a;
 }
 
+.fancy-image {
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.fancy-image img {
+	width: 100%;
+}
+
+.inner-padding {
+	position: absolute;
+	left: 2.25%;
+	top: 3.25%;
+	width: 95%;
+	height: 91.5%;
+}
+
+.inner-border {
+	width: 100%;
+	height: 100%;
+	border: 1px solid #ffffff;
+}
+
 #main {
 
 }
