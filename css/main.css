@@ -11,6 +11,11 @@ body {
 	border-top: solid 15px #103853;
 }
 
+#wrapper {
+	margin: auto;
+	max-width: 1080px;
+}
+
 h1 {
   font-family: "lush",sans-serif;
   color: #09202f;
