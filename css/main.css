@@ -151,6 +151,7 @@ section {
 	padding: 40px 20px;
 	margin-top: 20px;
 	font-weight: normal;
+	text-align: left;
 }
 
 .button {
@@ -221,7 +222,7 @@ section {
 	#banner h1 {
 		width: 65%;
 		padding: 120px 0px 100px 20px;
-		font-size: 100px;
+		font-size: 90px;
 	}
 }
 
