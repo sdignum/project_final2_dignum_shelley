@@ -140,7 +140,7 @@ section {
 
 #banner {
 	background: url(../img/cheese.jpg) no-repeat #09202f;
-	background-size: 110%;
+	background-size: 130%;
 }
 
 #banner h1 {
@@ -221,6 +221,10 @@ section {
 
 	.pretty-divider {
 		clear: both;
+	}
+
+	#banner {
+		background-size: 110%;
 	}
 
 	#banner h1 {
