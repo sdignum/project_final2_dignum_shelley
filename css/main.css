@@ -97,7 +97,7 @@ nav {
 
 nav ul {
 	list-style-type: none;
-	padding: 0 15%;
+	padding: 0 7%;
 	margin: 0;
 }
 
@@ -215,6 +215,10 @@ section {
 		margin-top: 100px;
 	}
 
+	nav ul {
+		padding: 0px 15%;
+	}
+
 	.pretty-divider {
 		clear: both;
 	}
@@ -234,10 +238,6 @@ section {
 
 	nav {
 		width: 67%;
-	}
-
-	nav ul {
-		padding: 0px 15%;
 	}
 
 	section {
