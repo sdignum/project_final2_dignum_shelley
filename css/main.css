@@ -86,7 +86,7 @@ position: relative;
 }
 
 header {
-	width: 95%;
+	padding: 0px 20px;
 	margin: auto;
 	text-align: center;
 }
