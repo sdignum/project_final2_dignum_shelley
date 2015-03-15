@@ -17,19 +17,19 @@ body {
 }
 
 h1 {
-  font-family: "lush",sans-serif;
-  color: #09202f;
-  font-size: 60px;
-  margin-bottom: 10px;
+	font-family: "lush",sans-serif;
+	color: #09202f;
+	font-size: 60px;
+	margin-bottom: 10px;
 }
 
 h2 {
-  font-family: "mostra-nuova",sans-serif;
-  font-weight: bold;
-  font-size: 32px;
-  text-transform: uppercase;
-  color: #bf1c2e;
-  margin: 0;
+	font-family: "mostra-nuova",sans-serif;
+	font-weight: bold;
+	font-size: 32px;
+	text-transform: uppercase;
+	color: #bf1c2e;
+	margin: 0;
 }
 
 p {
@@ -52,7 +52,7 @@ a:active {
 }
 
 nav ul li a {
-position: relative;
+	position: relative;
 }
 
 .link-effect a {
